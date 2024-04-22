@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "8"
+    },
+    "ghcr.io/devcontainers-contrib/features/maven-sdkman:2": {
+      "version": "3.6.3",
+      "jdkVersion": "8"
+    }
+  }
+}
